@@ -1,0 +1,19 @@
+{
+  "v": 4,
+  "createdOnFiles": {"v": 1, "at": "2026-10-21T05:00:00Z"},
+  "lists": "css",
+  "title": "Pedagog nutqini to‘g‘ri tashkil etish shartlari",
+  "order": ["cover", "reja", "kirish", "dolzarblik", "s11", "s12", "s21", "s22", "s31", "s32", "s33", "klaster", "xulosa", "adabiyot", "rahmat"],
+  "sections": {
+    "s1": {"description": "Kirish qismi: muqova, murakkab reja, kirish va mavzuning dolzarbligi", "start": "cover"},
+    "s2": {"description": "I. Pedagog nutqining nazariy asoslari", "start": "s11"},
+    "s3": {"description": "II. Pedagog nutqining texnik va noverbal jihatlari", "start": "s21"},
+    "s4": {"description": "III. Pedagog nutqini to‘g‘ri tashkil etish shartlari", "start": "s31"},
+    "s5": {"description": "Amaliy ish (klaster usuli), xulosa va foydalanilgan adabiyotlar", "start": "klaster"}
+  },
+  "faces": {
+    "domine": {"family": "Domine", "href": "https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap"},
+    "nunito-sans": {"family": "Nunito Sans", "href": "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;600;700;800&display=swap"}
+  },
+  "designSystems": []
+}
