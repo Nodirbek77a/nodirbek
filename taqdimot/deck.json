@@ -3,7 +3,7 @@
   "createdOnFiles": {"v": 1, "at": "2026-10-21T05:00:00Z"},
   "lists": "css",
   "title": "Pedagog nutqini to‘g‘ri tashkil etish shartlari",
-  "order": ["cover", "reja", "kirish", "dolzarblik", "s11", "s12", "s21", "s22", "s31", "s32", "s33", "klaster", "xulosa", "adabiyot", "rahmat"],
+  "order": ["cover", "reja", "kirish", "dolzarblik", "s11", "s11b", "s12", "s13", "s21", "s22", "s23", "s31", "s31b", "s32", "s33", "klaster", "xulosa", "adabiyot", "rahmat"],
   "sections": {
     "s1": {"description": "Kirish qismi: muqova, murakkab reja, kirish va mavzuning dolzarbligi", "start": "cover"},
     "s2": {"description": "I. Pedagog nutqining nazariy asoslari", "start": "s11"},
